@@ -20,6 +20,16 @@ Implemented partial functionality of Safari which includes pages navigation and 
 
 * To run the app simply type "Command + R" .
 
+## Features
+
+* Screen contains WKWebview, navigatioon bar, toolbar
+* WKWebView is hidden by default after initial app launch and the user should sees a button in the center of the screen
+* Tapping this button will start any website load inside WKWebView and will also show WKWebView full screen
+* Back/forward actions reflecting an ability for the user to go either back or forward
+* Back navigation action allows the user to go from a website loaded in WKWebView to a button in the screen's center.
+* Provides interactive horizontal swipe gesture from screen edges to navigate between pages.
+* Can save and restore WKWebView navigation history between app launches
+
 
 ## Screenshots
 
