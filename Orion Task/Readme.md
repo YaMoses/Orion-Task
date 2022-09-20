@@ -29,3 +29,6 @@ Implemented partial functionality of Safari which includes pages navigation and 
 
 * Toolbar area contains back and forward webview navigation buttons and a progress view for when a page is loading
  <img width="327" alt="Screenshot 2022-09-20 at 17 41 29" src="https://user-images.githubusercontent.com/16121795/191315955-26ba831f-94ee-4fe8-819b-6cdff2354dbc.png">
+
+* Swipe action to move back and forth pages 
+<img width="343" alt="Screenshot 2022-09-20 at 17 45 55" src="https://user-images.githubusercontent.com/16121795/191317317-0153cdf4-ef2f-429d-8ce1-c14cf03c0301.png">
