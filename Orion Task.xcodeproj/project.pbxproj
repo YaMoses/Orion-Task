@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		8257117D28D0BB58004F7DF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8257117C28D0BB58004F7DF9 /* AppDelegate.swift */; };
 		8257117F28D0BB58004F7DF9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8257117E28D0BB58004F7DF9 /* SceneDelegate.swift */; };
-		8257118128D0BB58004F7DF9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8257118028D0BB58004F7DF9 /* ViewController.swift */; };
 		8257118428D0BB58004F7DF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8257118228D0BB58004F7DF9 /* Main.storyboard */; };
 		8257118728D0BB58004F7DF9 /* Orion_Task.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8257118528D0BB58004F7DF9 /* Orion_Task.xcdatamodeld */; };
 		8257118928D0BB5C004F7DF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8257118828D0BB5C004F7DF9 /* Assets.xcassets */; };
@@ -17,6 +16,7 @@
 		8257119728D0BB5C004F7DF9 /* Orion_TaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8257119628D0BB5C004F7DF9 /* Orion_TaskTests.swift */; };
 		825711A128D0BB5D004F7DF9 /* Orion_TaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825711A028D0BB5D004F7DF9 /* Orion_TaskUITests.swift */; };
 		825711A328D0BB5D004F7DF9 /* Orion_TaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825711A228D0BB5D004F7DF9 /* Orion_TaskUITestsLaunchTests.swift */; };
+		82DF2B7428D343DF00E3D2DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82DF2B7328D343DF00E3D2DD /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +40,6 @@
 		8257117928D0BB58004F7DF9 /* Orion Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Orion Task.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8257117C28D0BB58004F7DF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8257117E28D0BB58004F7DF9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8257118028D0BB58004F7DF9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8257118328D0BB58004F7DF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8257118628D0BB58004F7DF9 /* Orion_Task.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Orion_Task.xcdatamodel; sourceTree = "<group>"; };
 		8257118828D0BB5C004F7DF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +50,7 @@
 		8257119C28D0BB5D004F7DF9 /* Orion TaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Orion TaskUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		825711A028D0BB5D004F7DF9 /* Orion_TaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orion_TaskUITests.swift; sourceTree = "<group>"; };
 		825711A228D0BB5D004F7DF9 /* Orion_TaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orion_TaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		82DF2B7328D343DF00E3D2DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,7 @@
 			children = (
 				8257117C28D0BB58004F7DF9 /* AppDelegate.swift */,
 				8257117E28D0BB58004F7DF9 /* SceneDelegate.swift */,
-				8257118028D0BB58004F7DF9 /* ViewController.swift */,
+				82DF2B7328D343DF00E3D2DD /* ViewController.swift */,
 				8257118228D0BB58004F7DF9 /* Main.storyboard */,
 				8257118828D0BB5C004F7DF9 /* Assets.xcassets */,
 				8257118A28D0BB5C004F7DF9 /* LaunchScreen.storyboard */,
@@ -261,8 +261,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82DF2B7428D343DF00E3D2DD /* ViewController.swift in Sources */,
 				8257118728D0BB58004F7DF9 /* Orion_Task.xcdatamodeld in Sources */,
-				8257118128D0BB58004F7DF9 /* ViewController.swift in Sources */,
 				8257117D28D0BB58004F7DF9 /* AppDelegate.swift in Sources */,
 				8257117F28D0BB58004F7DF9 /* SceneDelegate.swift in Sources */,
 			);
@@ -449,6 +449,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -477,6 +478,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

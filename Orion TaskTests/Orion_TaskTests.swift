@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import WebKit
 @testable import Orion_Task
 
 class Orion_TaskTests: XCTestCase {
