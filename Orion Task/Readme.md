@@ -32,3 +32,6 @@ Implemented partial functionality of Safari which includes pages navigation and 
 
 * Swipe action to move back and forth pages. Navigation title changes to the name of the loaded page
 <img width="343" alt="Screenshot 2022-09-20 at 17 45 55" src="https://user-images.githubusercontent.com/16121795/191317317-0153cdf4-ef2f-429d-8ce1-c14cf03c0301.png">
+
+* Page zoomed 
+<img width="329" alt="Screenshot 2022-09-20 at 17 53 32" src="https://user-images.githubusercontent.com/16121795/191318406-59195e68-006a-466c-858d-5193de97b4bd.png">
