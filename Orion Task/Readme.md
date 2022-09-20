@@ -18,7 +18,7 @@ Implemented partial functionality of Safari which includes pages navigation and 
 
 ## Running 
 
-* To run the app simply type "Command + R" .
+* To run the app simply type "Command + R" in Xcode.
 
 ## Features
 
