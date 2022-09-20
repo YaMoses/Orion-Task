@@ -25,4 +25,4 @@ Implemented partial functionality of Safari which includes pages navigation and 
 
 * Entry point of the app at install
 
-![simulator_screenshot_30D1BD0C-49FA-457E-9137-DA69144BFF0F](https://user-images.githubusercontent.com/16121795/191314621-242f88cf-0dcd-4019-95ac-1bc8685bb5dd.png)
+<img width="323" alt="Screenshot 2022-09-20 at 17 39 43" src="https://user-images.githubusercontent.com/16121795/191315595-402b4462-39fb-4ad0-96e2-fb9b533bc8c3.png">
